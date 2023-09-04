@@ -1,3 +1,3 @@
 # mgft-interview-app
-MGT Contact APP
+MGF Contact APP
 Kindly Read the INSTALL INSTRUCTIONS.docs file
